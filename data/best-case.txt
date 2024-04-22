@@ -1,0 +1,36 @@
+Critical Path time:
+A starts at time 0
+B starts at time 0
+H ends at 518.0 hours in expected
+
+Solution variable values:
+end_A = 8.0
+end_B = 14.0
+end_C = 29.0
+end_D1 = 38.0
+end_D2 = 68.0
+end_D3 = 73.0
+end_D4 = 269.0
+end_D5 = 303.0
+end_D6 = 339.0
+end_D7 = 451.0
+end_D8 = 474.0
+end_E = 73.0
+end_F = 502.0
+end_G = 502.0
+end_H = 518.0
+start_A = 0.0
+start_B = 0.0
+start_C = 8.0
+start_D1 = 8.0
+start_D2 = 38.0
+start_D3 = 38.0
+start_D4 = 73.0
+start_D5 = 269.0
+start_D6 = 269.0
+start_D7 = 339.0
+start_D8 = 451.0
+start_E = 29.0
+start_F = 474.0
+start_G = 474.0
+start_H = 502.0
